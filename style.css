@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    display: flex;
+
+}
+ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin-left: 10px;
+}
